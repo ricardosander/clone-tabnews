@@ -4,7 +4,8 @@
   "description": "Projeto clone do tabnews",
   "main": "index.js",
   "scripts": {
-    "dev": "next dev"
+    "dev": "next dev",
+    "vercel-build": "next dev"
   },
   "author": "",
   "license": "MIT",
